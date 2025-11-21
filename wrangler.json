@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "contact-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ca65901a-83f4-4fdc-8b73-334b579d4370",
+      "database_name": "contact-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
